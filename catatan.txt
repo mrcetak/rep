@@ -1,0 +1,17 @@
+test nama header dan tittle tiap page dengan edit dan cetak
+
+buat home nav
+
+warna validate tiap page baik error atau pun sukses
+
+Tambah namapegawai
+
+cari ubah di setiap controller
+
+cek hapus tiap page
+
+logika if yang berelasi
+
+Upload Seed,catatan,img,view(apalagi cetak),controller(apalagi yang relasi)
+bitly,pastebin,gith,stack,
+

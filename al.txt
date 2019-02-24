@@ -1,0 +1,15 @@
+cek editforeign
+
+cek header title
+cek role bikin di desain dan di route
+
+construct
+404,403
+illustrated
+
+Pastikan Role Di Route web dan ROle di desain,tombol cetak
+ sudah diberi
+
+edit footer
+
+cek pdf

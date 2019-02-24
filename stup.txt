@@ -1,0 +1,36 @@
+ENV
+Install Desain
+buat auth
+Buat Seed
+Buat Model + migration
+Buat Controller
+
+CRUD RUANG + report
+CRUD JENIS + report
+CRUD INVENTARIS + report
+CRUD PEGAWAI + report
+CRUD PEMINJAMAN + report
+CRUD PENGEMBALIAN + report
+
+'Jangan Lupa Tambahkan Contruct auth pada controller aktif'
+
+Desain Home ubah tampiljadi beranda
+404,403, Illustrated
+
+Testing Nama Title dan Header Semua Halaman Kebeneran data
+Testing Nama Title dan Header Semua Halaman Kebeneran data Pada report
+Kasih Role di Desain,TOmbolcetak, web(route)
+
+'Bug Padalink inventarisirAPP didesain'
+
+Design Footer
+placeholderyang sulit
+analisis error catat error
+
+Alur Pemrograman
+Stored Procedure
+
+
+
+
+

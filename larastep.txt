@@ -1,0 +1,36 @@
+
+php artisan make:seed UserSeed	(command)
+
+use Illuminate\Support\Facades\Schema;		(AppServiceProv)
+Schema::defaultStringLength(191);
+
+
+-Seed : 		use App\User;		(NameSeed)
+PubfRun	$user = new User();
+        $user->name = "Administrator";
+        $user->email = "admin@ukk.com";
+        $user->password = bcrypt('1234');
+        $user->save();
+
+use Session;
+pesan session di controller
+dan tampilan dengan fungsi logika di view
+
+title tiap page
+
+color cop
+
+bs4 date picker
+datatable
+select2
+illustrated layout ,404
+PubFunct _construct di Home
+
+eksperimen yield class active aowkoakwo
+
+yield active untuk treeview dan nav samping
+
+Jangan Lupa kalo bootstrap error tambahkan folder fonts di dalam storage
+
+
+VSCODE css intellense , laravel blade, atom skin, bootstrap
